@@ -33,7 +33,7 @@ function App() {
             <div className="w-full block">
                 <Header />
                 <main>
-                TODo : <Outlet />
+                <Outlet />
                 </main>
                 <Footer />
             </div>
